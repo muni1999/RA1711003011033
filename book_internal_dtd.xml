@@ -31,7 +31,7 @@
 		<copyright> 1920</copyright>
 		<edition> First </edition>
 		<isbn> 6002312 </isbn>
-		<publisher> O'relilly </publisher>
+		<publisher>relilly </publisher>
 		<price> 400 </price>
 	</book>
 	<book>
@@ -58,9 +58,9 @@
 		<title> Mocky Dick </title>
 		<author> Herman Melville </author>
 		<genre> Mystery </genre>
-		<copyright> 1960 </copyright>
+		<copyright> 1961 </copyright>
 		<edition> First </edition>
-		<isbn> 978-0446310789 </isbn>
+		<isbn> 46310789 </isbn>
 		<publisher>Hodder and Stoughton</publisher>
 		<price> 100 </price>
  	</book>
