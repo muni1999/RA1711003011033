@@ -18,19 +18,19 @@
 		<title> In Search of Lost Time </title>
 		<author> Marcel Proust </author>
 		<genre> Thriller </genre>
-		<copyright> 1913 </copyright>
+		<copyright> 1960 </copyright>
 		<edition> First </edition>
-		<isbn> 978-0446310789 </isbn>
-		<publisher> J.B.Lippincott </publisher>
+		<isbn> 6310789 </isbn>
+		<publisher> J.pincott </publisher>
 		<price> 1400 </price>
  	</book>
  	<book>
 		<title> Ulysses </title>
 		<author> james Joyce </author>
 		<genre> Education </genre>
-		<copyright> 1904</copyright>
+		<copyright> 1920</copyright>
 		<edition> First </edition>
-		<isbn> 9780596002312 </isbn>
+		<isbn> 6002312 </isbn>
 		<publisher> O'relilly </publisher>
 		<price> 400 </price>
 	</book>
@@ -40,7 +40,7 @@
 		<genre> Sci-fi </genre>
 		<copyright> 2020 </copyright>
 		<edition> First </edition>
-		<isbn> 978-04202010789 </isbn>
+		<isbn> 02010789 </isbn>
 		<publisher> HarperCollins </publisher>
 		<price> 250 </price>
  	</book>
@@ -48,9 +48,9 @@
 		<title> Five Point Someone</title>
 		<author> CHETAN BHAGAT </author>
 		<genre> Humour </genre>
-		<copyright> 2014 </copyright>
+		<copyright> 2015 </copyright>
 		<edition> First </edition>
-		<isbn> 9788129135490;</isbn>
+		<isbn> 29135490;</isbn>
 		<publisher> Rupa Publications </publisher>
 		<price> 300 </price>
  	</book>
